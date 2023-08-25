@@ -2,4 +2,5 @@
 calculadora para fazer operações matemáticas
 <br>
 https://igorpzanin.github.io/calculadora-padrao
-Cheio de bugs
+<br>
+Cheio de bugs a serem concertados.
